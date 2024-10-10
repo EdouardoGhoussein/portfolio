@@ -4,7 +4,6 @@ import { styles } from "../styles";
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 import { testimonials } from "../constants";
-import { fade } from "maath/dist/declarations/src/misc";
 
 interface Props {
   index: number;
