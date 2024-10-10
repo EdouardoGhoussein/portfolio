@@ -1,5 +1,5 @@
 // src/components/index.ts
-import { StarsCanvas, ComputerCanvas, BallCanvas } from "./canvas";
+import { StarsCanvas, ComputerCanvas, BallCanvas, EarthCanvas } from "./canvas";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 import About from "./About";
@@ -21,4 +21,5 @@ export {
   StarsCanvas,
   ComputerCanvas,
   BallCanvas,
+  EarthCanvas,
 };
